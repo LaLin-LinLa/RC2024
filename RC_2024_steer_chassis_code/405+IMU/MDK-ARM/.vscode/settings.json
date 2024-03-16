@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "imu.h": "c",
+    "drv_mpu9250.h": "c",
+    "system.h": "c"
+  }
+}

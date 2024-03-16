@@ -1,0 +1,16 @@
+{
+  "files.associations": {
+    "encoder.h": "c",
+    "pwm_curr.h": "c",
+    "main.h": "c",
+    "foc.h": "c",
+    "system_datapool.h": "c",
+    "fsm_task.h": "c",
+    "util.h": "c",
+    "controller.h": "c",
+    "user_config.h": "c",
+    "usart.h": "c",
+    "pwm_cur.h": "c",
+    "algorithm": "c"
+  }
+}
